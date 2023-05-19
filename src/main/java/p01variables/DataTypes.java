@@ -1,4 +1,4 @@
-package variables;
+package p01variables;
 
 public class DataTypes {
 

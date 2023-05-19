@@ -1,4 +1,4 @@
-package typeCastingScanner;
+package p02typeCastingScanner;
 
 public class TypeCasting01 {
 
