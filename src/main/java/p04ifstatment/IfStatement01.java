@@ -1,6 +1,6 @@
 package p04ifstatment;
 
-public class IsStatement01 {
+public class IfStatement01 {
     public static void main(String[] args) {
 
         //Ex: Type code to print negative for the numbers less than zero, non-negative for the numbers greater than or equal to zero
